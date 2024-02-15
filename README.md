@@ -1,4 +1,4 @@
-Project 1: Project with vanilla Javascript - the code above to test dynamic transitions in the home page.
+Project 1: Website project with vanilla Javascript - In the code above you can test dynamic transitions in the home page.
 
 [HomePage.pdf](https://github.com/RoulaHwaije/Company_project/files/14302598/HomePage.pdf)
 
