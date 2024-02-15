@@ -8,7 +8,7 @@ Project 1: Project with vanilla Javascript - the code above to test dynamic tran
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-Project 3: 3d game 
+Project 2: 3d game 
 
 ![111](https://github.com/RoulaHwaije/Company_project/assets/153372642/55828ddc-bb97-41f0-b947-5b58349693cf)
 ![22](https://github.com/RoulaHwaije/Company_project/assets/153372642/f4d43b13-3cdf-4429-85e0-57665332fbba)
@@ -25,7 +25,7 @@ Project 3: 3d game
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Project 2: Adler's mobile application 
+Project 3: Adler's mobile application 
  
 ![xt-teams project](https://github.com/RoulaHwaije/Company_project/assets/153372642/953e455b-8149-4b9b-ab81-2cb61a8265c2)
 
